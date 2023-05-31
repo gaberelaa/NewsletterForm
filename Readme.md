@@ -12,7 +12,7 @@ Os usuários devem ser capazes de:
 ### Links
 
 - Solução Frontend Mentor: 
-- Link do site: 
+- Link do site: https://gaberelaa.github.io/NewsletterForm/
 
 ## Desenvolvido com
 - Marcação HTML5 semântica
