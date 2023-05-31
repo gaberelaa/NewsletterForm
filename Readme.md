@@ -11,7 +11,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução Frontend Mentor: 
+- Solução Frontend Mentor: https://www.frontendmentor.io/solutions/formulrio-de-inscrio-newsletter-1fZko9KMtp
 - Link do site: https://gaberelaa.github.io/NewsletterForm/
 
 ## Desenvolvido com
