@@ -1,7 +1,7 @@
 # Frontend Mentor - Formulário de inscrição Newsletter com mensagem de sucesso.
 (Frontend Mentor)
 
-Esta é uma solução para o desafio de Landing page da Handdle com seções curvas. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
+Esta é uma solução para o desafio de Newsletter. Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
 ##O desafio
 Os usuários devem ser capazes de:
